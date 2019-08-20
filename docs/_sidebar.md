@@ -1,5 +1,6 @@
 * [序言](chapter00/preface00.md)
 * [文集](chapter01/README.md)
+   * [练习方法](chapter01/note00.md)
    * [练习 01-10](chapter01/note01.md)
    * [练习 11-20](chapter01/note02.md)
    * [练习 21-30](chapter01/note03.md)
