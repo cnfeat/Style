@@ -1,4 +1,4 @@
-#《古诗源》新译
+# 《古诗源》新译
 
 来源：[古诗源 - 维基文库，自由的图书馆](https://zh.wikisource.org/zh-hans/%E5%8F%A4%E8%A9%A9%E6%BA%90)
 
