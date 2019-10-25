@@ -10,7 +10,7 @@
    * [练习 61-70](chapter01/note07.md)
    * [练习 71-80](chapter01/note08.md)
    * [练习 81-90](chapter01/note09.md)
-   * [练习 91-99](chapter01/note10.md)
+   * [模仿清单](chapter01/note10.md)
    * [写作清单](chapter01/note99.md)
 * [备注](ps/note01s.md)
 * [参考文献](ps/ref.md)
